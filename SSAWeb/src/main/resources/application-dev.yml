@@ -1,0 +1,8 @@
+server:
+  port: 9091
+  
+ssa:
+ ssaProps:
+   successMessage: SSN ENROLL SUCCESS
+   successFailure: SSN ENROLL FAILURE
+  

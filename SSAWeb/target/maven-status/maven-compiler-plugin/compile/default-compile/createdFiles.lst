@@ -1,0 +1,13 @@
+com\usa\federal\gov\constants\Appconstants.class
+com\usa\federal\gov\service\UsaSsaServiceImpl.class
+com\usa\federal\gov\model\UsaStateModel.class
+com\usa\federal\gov\ServletInitializer.class
+com\usa\federal\gov\entity\SsaMaster.class
+com\usa\federal\gov\service\UsaSsaService.class
+com\usa\federal\gov\controller\SsnController.class
+com\usa\federal\gov\entity\UsaStateEntity.class
+com\usa\federal\gov\model\SsaModel.class
+com\usa\federal\gov\repository\SsaMasterRepository.class
+com\usa\federal\gov\SsaWebApplication.class
+com\usa\federal\gov\repository\UsaStateEntityRepository.class
+com\usa\federal\gov\properties\SsaAppProperties.class
